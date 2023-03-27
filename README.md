@@ -4,7 +4,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 email: groveer@outlook.com
+- 📫 email: groveer@qq.com
 
 <!---
 Groveer/Groveer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
